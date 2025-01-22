@@ -1,0 +1,44 @@
+themes:
+  - name: Light
+    applicationBackground: f9f9f9
+    textColor: 000000
+    operatorBackground: f1f9fc
+    numbersBackground: ffffff
+    btnEqualTextColor: ffffff
+    btnEqualBackground: 0067ff
+  - name: Dark
+    applicationBackground: 111111
+    textColor: ffffff
+    operatorBackground: 2d3361
+    numbersBackground: 363c47
+    btnEqualTextColor: ffffff
+    btnEqualBackground: 4ccfff
+  - name: Crimson
+    applicationBackground: dc143c
+    textColor: ffffff
+    operatorBackground: a80f2e
+    numbersBackground: e3426d
+    btnEqualTextColor: ffffff
+    btnEqualBackground: 8b0000
+  - name: Purple
+    applicationBackground: 4b0082
+    textColor: ffffff
+    operatorBackground: 2c0057
+    numbersBackground: 5d3fd3
+    btnEqualTextColor: ffffff
+    btnEqualBackground: 800080
+  - name: Toxic
+    applicationBackground: 00ff00
+    textColor: 000000
+    operatorBackground: 008000
+    numbersBackground: 00cc00
+    btnEqualTextColor: 000000
+    btnEqualBackground: 009900
+  - name: Gold
+    applicationBackground: fff8dc
+    textColor: d4af37
+    operatorBackground: ffd700
+    numbersBackground: ffe680
+    btnEqualTextColor: 000000
+    btnEqualBackground: ffbf00
+
